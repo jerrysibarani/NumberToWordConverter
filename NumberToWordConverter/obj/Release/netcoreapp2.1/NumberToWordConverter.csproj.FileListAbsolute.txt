@@ -1,0 +1,10 @@
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\NumberToWordConverter.deps.json
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\NumberToWordConverter.runtimeconfig.json
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\NumberToWordConverter.runtimeconfig.dev.json
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\NumberToWordConverter.dll
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\NumberToWordConverter.pdb
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\NumberToWordConverter.csproj.CoreCompileInputs.cache
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\NumberToWordConverter.AssemblyInfoInputs.cache
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\NumberToWordConverter.AssemblyInfo.cs
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\NumberToWordConverter.dll
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\NumberToWordConverter.pdb

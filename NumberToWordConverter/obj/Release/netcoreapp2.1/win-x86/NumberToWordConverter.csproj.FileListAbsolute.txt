@@ -1,0 +1,14 @@
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\NumberToWordConverter.exe
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\NumberToWordConverter.deps.json
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\NumberToWordConverter.runtimeconfig.json
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\NumberToWordConverter.runtimeconfig.dev.json
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\NumberToWordConverter.dll
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\bin\Release\netcoreapp2.1\win-x86\NumberToWordConverter.pdb
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\win-x86\NumberToWordConverter.csproj.CoreCompileInputs.cache
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\win-x86\NumberToWordConverter.AssemblyInfoInputs.cache
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\win-x86\NumberToWordConverter.AssemblyInfo.cs
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\win-x86\NumberToWordConverter.dll
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\win-x86\NumberToWordConverter.pdb
+D:\Jerry Data\App\Mitrais\NumberToWordConverter\NumberToWordConverter\obj\Release\netcoreapp2.1\win-x86\NumberToWordConverter.csprojAssemblyReference.cache
